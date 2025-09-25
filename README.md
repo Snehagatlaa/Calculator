@@ -18,3 +18,6 @@ Supports addition, subtraction, multiplication, division, and modulus.
 2. Run the calculator:
    ```bash
    python calculator.py
+
+### 📸 Screenshot of Menu
+<img width="404" height="290" alt="Screenshot 2025-09-25 150836" src="https://github.com/user-attachments/assets/06c67e1b-d6f9-484c-95db-e5440837f654" />
